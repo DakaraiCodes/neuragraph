@@ -7,6 +7,24 @@ The product experience is designed as a dark graph intelligence dashboard:
 text ingestion, NLP extraction, graph persistence, live results, and React Flow
 visualization all work together as one analysis workflow.
 
+## Live Demo
+
+Frontend:
+
+```text
+https://neuragraph-git-main-dakaraicodes-projects.vercel.app/dashboard
+```
+
+Backend:
+
+```text
+https://neuragraph.onrender.com
+```
+
+Note: if the Vercel deployment is protected, visitors may see a Vercel login
+screen until Deployment Protection is disabled or a public production alias is
+configured.
+
 ## Features
 
 - Paste raw text and build a knowledge graph
